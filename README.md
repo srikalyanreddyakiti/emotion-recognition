@@ -40,5 +40,4 @@ This project implements a **Facial Emotion Recognition** system using **Convolut
 
 ## 👨‍💻 Author  
 **Akiti Sri Kalyan Reddy**  
-B.Tech – Data Science and Artificial Intelligence  
-ICFAI University, Hyderabad  
+Data Science and Artificial Intelligence  
